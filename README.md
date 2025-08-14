@@ -41,9 +41,9 @@ Tried 2 methods were tested:
 - Predict and overlay emotion label on video frames
 
   # Tools & Libraries used:
-  Python 3.x
-  OpenCV
-  Scikit-learn
-  NumPy
-  Matplotlib
+  - Python 3.x
+  - OpenCV
+  - Scikit-learn
+  - NumPy
+  - Matplotlib
   
